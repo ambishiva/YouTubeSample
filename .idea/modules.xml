@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-VideoTube-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-VideoTube-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-VideoTube-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-VideoTube-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YouTubeSample.iml" filepath="$PROJECT_DIR$/.idea/modules/YouTubeSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YouTubeSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YouTubeSample.app.iml" />
     </modules>
   </component>
 </project>
